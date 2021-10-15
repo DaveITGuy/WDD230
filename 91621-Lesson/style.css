@@ -1,0 +1,7 @@
+body {
+  background-color: goldenrod;
+}
+
+li:nth-child(2n) {
+  color: blue;
+}
