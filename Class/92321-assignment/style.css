@@ -1,0 +1,12 @@
+body {
+  background-color: grey;
+}
+div {
+  font-weight: bold;
+}
+#firstDiv {
+  float: left;
+}
+#thirdDiv {
+  float: right;
+}
